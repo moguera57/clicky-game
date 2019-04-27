@@ -1,13 +1,13 @@
 {
-  "main.css": "moguera57.github.com/clicky-game/static/css/main.dd3508b9.chunk.css",
-  "main.js": "moguera57.github.com/clicky-game/static/js/main.cc6e575d.chunk.js",
-  "main.js.map": "moguera57.github.com/clicky-game/static/js/main.cc6e575d.chunk.js.map",
-  "runtime~main.js": "moguera57.github.com/clicky-game/static/js/runtime~main.5dec23cb.js",
-  "runtime~main.js.map": "moguera57.github.com/clicky-game/static/js/runtime~main.5dec23cb.js.map",
-  "static/js/2.a5a85c1a.chunk.js": "moguera57.github.com/clicky-game/static/js/2.a5a85c1a.chunk.js",
-  "static/js/2.a5a85c1a.chunk.js.map": "moguera57.github.com/clicky-game/static/js/2.a5a85c1a.chunk.js.map",
-  "index.html": "moguera57.github.com/clicky-game/index.html",
-  "precache-manifest.2b05530f467f8891a277f293513c0045.js": "moguera57.github.com/clicky-game/precache-manifest.2b05530f467f8891a277f293513c0045.js",
-  "service-worker.js": "moguera57.github.com/clicky-game/service-worker.js",
-  "static/css/main.dd3508b9.chunk.css.map": "moguera57.github.com/clicky-game/static/css/main.dd3508b9.chunk.css.map"
+  "main.css": "moguera57.github.io/clicky-game/static/css/main.dd3508b9.chunk.css",
+  "main.js": "moguera57.github.io/clicky-game/static/js/main.cc6e575d.chunk.js",
+  "main.js.map": "moguera57.github.io/clicky-game/static/js/main.cc6e575d.chunk.js.map",
+  "runtime~main.js": "moguera57.github.io/clicky-game/static/js/runtime~main.9e68a0ef.js",
+  "runtime~main.js.map": "moguera57.github.io/clicky-game/static/js/runtime~main.9e68a0ef.js.map",
+  "static/js/2.a5a85c1a.chunk.js": "moguera57.github.io/clicky-game/static/js/2.a5a85c1a.chunk.js",
+  "static/js/2.a5a85c1a.chunk.js.map": "moguera57.github.io/clicky-game/static/js/2.a5a85c1a.chunk.js.map",
+  "index.html": "moguera57.github.io/clicky-game/index.html",
+  "precache-manifest.5ae01e377a1941683fb5401ab1fa900e.js": "moguera57.github.io/clicky-game/precache-manifest.5ae01e377a1941683fb5401ab1fa900e.js",
+  "service-worker.js": "moguera57.github.io/clicky-game/service-worker.js",
+  "static/css/main.dd3508b9.chunk.css.map": "moguera57.github.io/clicky-game/static/css/main.dd3508b9.chunk.css.map"
 }
